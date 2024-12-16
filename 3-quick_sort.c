@@ -16,7 +16,7 @@ void swap(int *a, int *b)
  * partition - Partitions the array using the Lomuto partition scheme
  * @array: The array to partition
  * @left: The starting index of the partition
- * @left: The ending index of the partition
+ * @right: The ending index of the partition
  * @size: The size of the array
  *
  * Return: The index of the pivot
